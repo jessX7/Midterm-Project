@@ -18,7 +18,7 @@
 - Other: GitHub Pages for hosting, Figma for design
 
 # Live Demo
-- Here is the [link]() to the live version of the project hosted on GitHub Pages.
+- Here is the [link](https://jessx7.github.io/Midterm-Project/) to the live version of the project hosted on GitHub Pages.
 
 # Credits
 - Sound: 
