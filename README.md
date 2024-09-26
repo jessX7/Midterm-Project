@@ -30,6 +30,8 @@
 - Fonts:
   - Header: Creepster
   - Paragraph: Play
+ 
+- Inspiration: This was mainly inspired by the japanese book "Akazukin, Tabi no Tochuu de Shitai to Deau", a mystery book that follows Little Red Riding Hood as she hunts criminals who commit crimes in famous fairy tales such as Cinderella and Hansel and Gretel. It was also inspired by Kino no Tabi, a novel that follows a traveler as they wander the lands and venture through various countries and places.
 
 # Future Enhancements 
 - I would have loved to add more animations such as making the buttons shake to match the atmosphere. It would also have been better if I could added more user-triggered events.
